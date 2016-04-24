@@ -392,10 +392,56 @@ date {
 
 .main-footer {
 	clear: both;
+	background: #1e1e1e;
+	color: #ddd;
+	margin-top: 2em;
+	height: 33em;
 }
 
+.main-footer img {
+	display: block;
+	text-align: center;
+	width: 85%;
+	margin: 2em 0 2em 4em;
+	padding-top: 8em;
+}
+.main-footer ul {
+	clear: both;
+	color: #d82731;
 
+}
 
+.footer-nav {
+	border-top: 1px solid #575757;
+	border-width: 90%
+	padding: 0;
+}
+.main-footer li a {
+	color: #575757;
+	text-decoration: none;	
+	padding: 0;
+}
+
+.main-footer li {
+	
+	padding: .35em 1.8em 1em 0;
+	float: left;
+	font-size: 80%;
+}
+.main-footer p {
+	clear: both;
+	border-top: 1px solid #575757;
+	color: #575757;
+	font-size: 80%;
+	padding-top: 2em;
+	padding-left: 2em;
+}
+
+.naughty {
+	color: #ddd;
+	text-decoration: none;
+	
+}
 
 
 
