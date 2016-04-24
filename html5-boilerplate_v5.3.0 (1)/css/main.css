@@ -347,6 +347,51 @@ date {
 .search input {
 	width: 40%;
 	margin-left: 2.25em;
+	padding: .35em;
+	font-size: 
+}
+
+.fa-search {
+	position: absolute;
+	left: 18.5em;
+		
+}
+
+.twitter {
+	width: 40%;
+	padding-top: 2em;
+	padding-left: 2.5em;
+	float: left;
+}
+
+.top-stories {
+	width: 40%;
+	background: black;
+	color: white;
+	font-family: 'Montserrat', Arial, Helvetica, sans-serif;
+	float: right;
+	margin-right: 2em;
+	margin-top: 3em;
+}
+.top-stories h2 {
+	font-size: 90%;
+	padding: 1em;
+	font-weight: lighter;
+}
+
+.top-stories a {
+	color: white;
+	text-decoration: none;
+}
+.top-stories ul li {
+	list-style-type: none;
+	border-bottom: .15em solid white;
+	border-width: 100%;
+
+}
+
+.main-footer {
+	clear: both;
 }
 
 
