@@ -249,7 +249,16 @@ date {
 	font-size: 90%;
 }
 
-
+.main-content h2 {
+	font-family: 'Montserrat', sans-serif;
+	padding: .25em;
+	margin-left: 1em;
+	margin-right: 37em;
+	color: white;
+	background-color: #d82731;
+	font-size: 95%;
+	text-align: center;
+}
 
 
 
