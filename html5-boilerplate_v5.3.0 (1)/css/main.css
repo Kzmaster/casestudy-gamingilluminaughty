@@ -209,6 +209,49 @@ header a {
 	padding-right: 2em;
 }
 
+.top-art {
+	width: 30%;
+	padding: 2em;
+	font-size: .9em;
+	
+	float: left;
+}
+
+
+.top-art h2:hover {
+	color: #d82731;
+}
+.top-art a {
+	text-decoration: none;
+	font-size: 60%;
+	color: #ddd;
+	margin: 0;
+	padding: 0;
+
+}
+
+.float {
+	background: #1e1e1e;
+	height: 28em;
+	width: 100%;
+}
+
+p span {
+	font-size: 60%;
+	text-transform: uppercase;
+	
+}
+p span:hover {
+	color: #d82731;
+}
+
+date {
+	font-size: 90%;
+}
+
+
+
+
 
 
 
