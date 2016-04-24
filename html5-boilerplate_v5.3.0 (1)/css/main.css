@@ -171,10 +171,12 @@ header a {
 }
 
 .lorg {
-	margin: 0 .4em;
+	margin: 0;
+	
 	background: #1e1e1e;
 	color: white;
 	font-family: Arial, sans-serif;
+	width: 102%;
 }
 
 .lorg ul {
@@ -258,7 +260,16 @@ date {
 	background-color: #d82731;
 	font-size: 95%;
 	text-align: center;
+	margin-top: 2em;
+	margin-bottom: 2.5em;
 }
+.main-background {
+	background-color: white;
+	border-left: .5em solid #ddd;
+	border-right: .5em solid #ddd;
+	z-index: -10;
+}
+
 
 
 
