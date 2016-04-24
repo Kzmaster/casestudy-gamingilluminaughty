@@ -270,8 +270,84 @@ date {
 	z-index: -10;
 }
 
+.main-article {
+	border-bottom: 1px solid #ddd;
+	font-family: Arial, sans-serif;
+	padding: 0 2em 5em 0em;
+	color: #575757;
+	
+}
+.main-article h2 {
+	font-family: 'Bitter', sans-serif;
+	font-weight: bolder;
+	color: black;
+	font-size: 130%;
+	padding-top: 2em;
+}
+
+.main-article h2:hover {
+	color: #d82731;
+	
+}
+.main-article p {
+	font-size: 90%;
+}
+
+.main-article a {
+	text-decoration: none;
+	
+}
+.main-article a:hover {
+	color: #d82731;
+}
+
+.main-article img {
+	float: left;
+	margin: 2em;
+	clear: both;
+}
+
+.fa-comments {
+	padding-left: 4em;
+}
+
+.rmore {
+	color:black;
+	font-family: 'Bitter', serif;
+	padding-left: 16em;
+	font-size: 85%;
+}
+.end {
+	border: none;
+}
 
 
+.clearfix:after {
+     visibility: hidden;
+     display: block;
+     font-size: 0;
+     content: " ";
+     clear: both;
+     height: 0;
+     }
+.clearfix { display: inline-block; }
+/* start commented backslash hack \*/
+* html .clearfix { height: 1%; }
+.clearfix { display: block; }
+/* close commented backslash hack */
+
+.search h3 {
+	font-family: 'Montserrat', Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: 80%;
+	text-transform: uppercase;
+	margin-left: 2.5em;
+}
+
+.search input {
+	width: 40%;
+	margin-left: 2.25em;
+}
 
 
 
