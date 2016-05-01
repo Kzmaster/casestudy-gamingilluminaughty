@@ -378,9 +378,6 @@ date {
 	font-weight: lighter;
 }
 
-.top-stories ul{
-	
-}
 
 .top-stories a {
 	color: white;
@@ -390,8 +387,6 @@ date {
 	list-style-type: none;
 	border-bottom: .15em solid white;
 	border-width: 100%;
-	
-
 }
 
 .main-footer {
