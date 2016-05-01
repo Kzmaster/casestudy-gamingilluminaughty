@@ -370,13 +370,16 @@ date {
 	color: white;
 	font-family: 'Montserrat', Arial, Helvetica, sans-serif;
 	float: right;
-	margin-right: 2em;
-	margin-top: 3em;
+
 }
 .top-stories h2 {
 	font-size: 90%;
 	padding: 1em;
 	font-weight: lighter;
+}
+
+.top-stories ul{
+	
 }
 
 .top-stories a {
@@ -387,6 +390,7 @@ date {
 	list-style-type: none;
 	border-bottom: .15em solid white;
 	border-width: 100%;
+	
 
 }
 
